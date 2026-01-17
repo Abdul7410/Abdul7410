@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 Hi, I’m Abdul Haadi 👋<br><br>Computer Science undergraduate with a strong foundation in programming and mathematics.  <br>I enjoy building practical projects and explaining concepts clearly.<br><br><br>- 💻 Computer Science Graduate with specialization in AIML<br>- 🧠 Interested in backend development and problem solving  <br>- 📸 Built a face recognition Streamlit app using MySQL  <br><br>🛠 Tech Stack<br>- Languages: Python, C, SQL  <br>- Web: HTML, CSS, Streamlit  <br>- Database: MySQL  <br>- Tools: Git, GitHub, VS Code<br><br>🚀 Projects<br>- Face Recognition Photo App<br>  A Python application that detects faces via images or webcam and logs attendance automatically.<br><br>📌 Currently<br>- Preparing for interviews  <br>- Strengthening backend and database skills<br>
 
 
